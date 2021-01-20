@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Oswald:wght@700&display=swap');
+/* CSS RESET */
+*
+{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #312A26;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+p,input,label,span,a
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+    body
+{
+width: 100%;
+}
+/* Header Area */
+
+header{
+    background-color: gray;
+    height: 80px;
+}
+nav
+{
+overflow: auto;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+nav h1
+{
+    width: 50%;
+    float: left;
+    font-size: 50px;
+    text-align: left;
+}
+
+nav ul
+{
+width: 50%;
+float: left;
+text-align: right;
+padding-top: 10px;
+font-size: 25px;
+}
+
+/* To make the navigation on one line */
+nav li
+{
+    display: inline-block;
+}
+
+nav a
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+nav a:hover
+{
+    color: #c7a17a;
+}
+
+/* banner area */
+.banner
+{
+    background-image: url('../images/background1.jpg');
+    height: 650px;
+    background-size: cover;
+ background-position: center;
+ margin-bottom: 5%;
+}
+
+.banner-text
+{
+    width: 30%;
+    position: relative;
+    top: 20%;
+    left: 7.5%;
+}
+
+.banner-text a:hover
+{
+    color: #c7a17a;
+}
+
+.banner-text h2
+{
+font-size: 80px;
+text-transform: uppercase;
+line-height: 75px;
+}
+
+
+
+.banner-text p
+{
+    font-style: italic;
+    margin-bottom: 15px;
+    color: gray;
+}
+
+.banner-text span
+{
+    color: red;
+    font-family: 'Oswald', sans-serif;
+}
+.banner-text a
+{
+    background-color: #312A26;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 15px 20px;
+    display: inline-block;
+}
+
+/* banner area */
+
+.ads-box{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.ads-text h1{
+    font-size: 50px;
+    margin-bottom: 3%;
+
+}
+
+.ads-text p{
+font-size: 25px;
+color: gray;
+}
+
+
+/* main */
+.main{
+display: flex;
+
+
+}
+.main-box{
+display: flex;
+width: 60.5%;
+
+}
+.main-text{
+    position: relative;
+left: 50%;
+text-align: center;
+}
+
+.main-text h2{
+    font-size: 60px;
+ margin-bottom: 8%;
+
+}
+
+.main-text p{
+    font-size: 25px;
+
+}
+.main-img{
+
+position: relative;
+left: 25%;
+height: 10px;
+width: 10px;
+}
+
+
+.main-btn{
+    background-color: #312A26;
+    padding: 15px 20px;
+    display: inline-block;
+    position: relative;
+    left: 10%;
+    width: 80%;
+    
+}
+
+.main-btn a:hover
+{
+    color: #c7a17a;
+}
+
+.main-btn a{
+    background-color: #312A26;
+    color: gray;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 15px 20px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+
+}
+
+
+.ads2{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.ads2 h1{
+    font-size: 50px;
+    margin-bottom: 3%;
+
+}
+
+.ads2 p{
+font-size: 25px;
+color: gray;
+}
+
+/* footer */
+.footer
+{
+    margin-top: 3%;
+    background-color: #312A26;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+
+
+.footer h2,
+.footer p
+{
+    color: white;
+}
+/* footer */

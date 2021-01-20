@@ -1,0 +1,38 @@
+
+var ftGUID_4158877="4710700094F864";
+var ftConfID_4158877="0";
+var ftParams_4158877="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=wallpaperaccess.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwallpaperaccess.com%2F&ft_section=__86557566595345486572648445628748527713&cachebuster=246199.4167441157";
+var ftKeyword_4158877="";
+var ftCustom_4158877="";
+var ftSection_4158877="__86557566595345486572648445628748527713";
+var ftSegment_4158877="w2c,afr5";
+var ftSegmentList_4158877=[{s:'w2c'},{s:'afr5'}];
+var ftRuleMatch_4158877="0";
+var ftTimestamp_4158877="1610606346";
+var ftGeoC2_4158877="jp";
+var ftGeoState_4158877="13";
+var ftGeoCity_4158877="tokyo";
+var ftISP_4158877="jupiter telecommunications co. ltd.";
+var ftSpeed_4158877="broadband";
+var ftDMA_4158877="392001";
+var ftLong_4158877="139.75";
+var ftLat_4158877="35.68";
+var ftPostal_4158877="100-0001";
+var ftTimeZone_4158877="900";
+var ftMobileCarrier_4158877="";
+var ftImp4158877 = {};
+ftImp4158877.privacy = "x";
+ftImp4158877.guidAge = "52";
+ftImp4158877.impID = "E98256C0-C7BC-5421-4B2E-BB6CA5381481";
+ftImp4158877.duid = "FT:4710700094F864";
+
+ftImp4158877.ft_tpplid = "";
+ftImp4158877.ft_c = {};
+ftImp4158877.gdpr = "";
+ftImp4158877.gdpr_consent = "";
+ftImp4158877.gdpr_pd = "";
+ftImp4158877.oob_consent = "0";
+ftImp4158877.gdprStoredConsent = "";
+ftImp4158877.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/415/4158877/3167314/js/j-4158877-3167314.js" id="ftscript_m4158877" name="ftscript_m4158877"></scr'+'ipt>');
